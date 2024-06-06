@@ -8,6 +8,7 @@ This project processes and analyzes recipe data using Apache Spark. The applicat
 
 - Python 3.8+
 - Apache Spark
+  
 Note: For Using Apache Spark Java Develop Kit(JDK) in mandatory to working with Apache Spark. 
 
 ## Setup
